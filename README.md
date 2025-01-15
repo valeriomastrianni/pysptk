@@ -35,7 +35,7 @@ pip install pysptk
 If yout want the latest master, run
 
 ```bash
-pip install git+https://github.com/r9y9/pysptk
+pip install git+https://github.com/valeriomastrianni/pysptk
 ```
 
 or clone the repository and then build it yourself.

@@ -153,7 +153,6 @@ setup(
         "decorator",
         "cython >= " + min_cython_ver,
     ],
-    tests_require=["pytest", "pytest-cov", "coverage"],
     extras_require={
         "docs": ["numpydoc", "sphinx_rtd_theme", "seaborn"],
         "test": ["pytest", "pytest-cov", "coverage", "flake8"],
